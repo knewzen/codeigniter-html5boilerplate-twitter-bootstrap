@@ -1,6 +1,4 @@
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/aF8QWaPs78PSySxWPHXXNThZ/vesparny/codeigniter-html5boilerplate-twitter-bootstrap'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/aF8QWaPs78PSySxWPHXXNThZ/vesparny/codeigniter-html5boilerplate-twitter-bootstrap.svg' />
-</a>
+
 
 # PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
 
